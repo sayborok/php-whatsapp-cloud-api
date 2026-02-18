@@ -1,0 +1,14 @@
+{
+    "name": "sayborok/php-whatsapp-cloud-api",
+    "description": "WhatsApp Cloud API PHP Wrapper (Native)",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "WhatsApp\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4"
+    }
+}
